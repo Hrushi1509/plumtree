@@ -1,0 +1,16 @@
+.shop-now{
+    background-color: rgba(5, 30, 170, 0.884);
+    color: white;
+    display: flex;
+    align-items: center;
+    width: 50%;
+    justify-content: center;
+    padding: 10px 25px;
+    margin: 0 20px;
+}
+
+.shop{
+    width: 80%;
+    margin-left: -130px;
+}
+
